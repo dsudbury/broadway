@@ -1,0 +1,52 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2  {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3  {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.background {
+  background-image: url("background/building.png");
+  background-position: center;
+  background-repeat: repeat-y;
+}
+
+p   {
+  font-size: 14;
+}
+
+.designed {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
+  color: white;
+}
+
+.footer  {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
